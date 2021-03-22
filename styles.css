@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+
+}
+h1{
+	font-family: 'Chango';
+	font-size: 40px;
+	color:white;
+	text-align: center;
+	border:4px dotted #fff9f9;
+	padding: 8px;
+}
+p{
+	font-family: 'Courgette';
+	font-size: 25px;
+	text-align: center;
+	color: white;
+
+}
+img{
+	widht:750px;
+	height:550px;
+
+
+}
