@@ -1,5 +1,5 @@
 body;
-	background:linear-gradient(to right, #D98880 0%, #E6B0AA 100%):
+	background-image: url("");
 
 }
 h1{
@@ -15,11 +15,5 @@ p{
 	font-size: 25px;
 	text-align: center;
 	color: white;
-
-}
-img{
-	widht:750px;
-	height:550px;
-
 
 }
