@@ -1,5 +1,5 @@
 body{
-	background-color: black;
+	background-image: linear-gradient(to right, #f9d52373 0%, #ff4e5169 100%), url("../img/inicio-bann.jpg");
 
 }
 h1{
